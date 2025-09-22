@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.q{
+    margin: 50px;
+   width: 290px;
+   height: 302px; 
+   box-shadow: 0px 17px 27px -4px #00000040;
+   text-align: center;
+   box-sizing: border-box;
+   
+   
+}
+.p{
+    margin-top: 30px;
+}
+.a{
+    
+    display: flex;
+    flex-wrap: wrap;
+}
+.w{
+margin: 50px;
+   width: 290px;
+   height: 302px; 
+   box-shadow: 0px 17px 27px -4px #00000040;
+   text-align: center;
+   box-sizing: border-box;
+   flex-wrap: wrap; 
+}
